@@ -1,0 +1,176 @@
+﻿@model IEnumerable<projecto_incidencias.Models.Documento>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+
+    <a asp-action="Create">AGREGAR PROSPECTO</a>
+    <br />
+  
+
+    <h4>Listado de Prospecto</h4>
+
+
+</p>
+
+
+<h4> ENVIADO</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               NOMBRE
+            </th>
+            <th>
+              PRIMER APELLIDO
+            </th>
+            <th>
+               SEGUNDO APELLIDO
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.ESTATUS.Equals("ENVIADO"))
+            {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.NOMBRE)
+
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.PRIMER_APELLIDO)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SEGUNDO_APELLIDO)
+            </td>
+
+
+            <td>
+                @Html.ActionLink("DETALLES", "Detalles_Prospecto", new { id = item.ID2 }) 
+            </td>
+
+            <td>
+                @Html.ActionLink("EVALUACION DEL PROSPECTO", "Edit_Document", new { id = item.ID2 }) 
+            </td>
+
+
+
+        </tr>
+            }
+        }
+
+
+    </tbody>
+</table>
+<h4>AUTORIZADO</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                NOMBRE
+            </th>
+            <th>
+                PRIMER APELLIDO
+            </th>
+            <th>
+                SEGUNDO APELLIDO
+            </th>
+         
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.ESTATUS.Equals("AUTORIZADO"))
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NOMBRE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PRIMER_APELLIDO)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SEGUNDO_APELLIDO)
+
+            </td>
+
+            <td>
+                @Html.ActionLink("DETALLES", "Detalles_Prospecto", new { id = item.ID2 }) 
+            </td>
+
+            <td>
+                @Html.ActionLink("EVALUACION DEL PROSPECTO", "Edit_Document", new { id = item.ID2 }) 
+            </td>
+        </tr>
+        
+            }
+        }
+
+
+    </tbody>
+</table>
+
+<h4> RECHAZADO</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                NOMBRE
+            </th>
+            <th>
+                PRIMER APELLIDO
+            </th>
+            <th>
+                SEGUNDO APELLIDO
+            </th>
+
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.ESTATUS.Equals("RECHAZADO"))
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NOMBRE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PRIMER_APELLIDO)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SEGUNDO_APELLIDO)
+                |
+            </td>
+            <td>
+                @Html.ActionLink("DETALLES", "Detalles_Prospecto", new { id = item.ID2 }) 
+            </td>
+
+            <td>
+                @Html.ActionLink("EVALUACION DEL PROSPECTO", "Edit_Document", new { id = item.ID2 }) 
+            </td>
+        </tr>
+            }
+        }
+
+
+    </tbody>
+</table>

@@ -1,0 +1,119 @@
+﻿
+@model projecto_incidencias.Models.prospecto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<h4>Crear Prospecto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+           
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+          
+            <div class="form-group">
+                <label asp-for="NOMBRE" class="control-label"></label>
+                <input asp-for="NOMBRE" class="form-control" type="text" onkeypress="return soloLetras(event)" />
+                <span asp-validation-for="NOMBRE" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PRIMER_APELLIDO" class="control-label"></label>
+                <input asp-for="PRIMER_APELLIDO" class="form-control" type="text" onkeypress="return soloLetras(event)" />
+                <span asp-validation-for="PRIMER_APELLIDO" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SEGUNDO_APELLIDO" class="control-label"></label>
+                <input asp-for="SEGUNDO_APELLIDO" class="form-control" type="text" onkeypress="return soloLetras(event)" />
+                <span asp-validation-for="SEGUNDO_APELLIDO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CALLE" class="control-label"></label>
+                <input asp-for="CALLE" class="form-control" type="text" />
+                <span asp-validation-for="CALLE" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NUMERO" class="control-label"></label>
+                <input asp-for="NUMERO" class="form-control" type="number" />
+                <span asp-validation-for="NUMERO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="COLONIA" class="control-label"></label>
+                <input asp-for="COLONIA" class="form-control" type="text" />
+                <span asp-validation-for="COLONIA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CODIGO_POSTAL" class="control-label"></label>
+                <input asp-for="CODIGO_POSTAL" class="form-control" type="text" />
+                <span asp-validation-for="CODIGO_POSTAL" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TELEFONO" class="control-label"></label>
+                <input asp-for="TELEFONO" class="form-control" type="number" />
+                <span asp-validation-for="TELEFONO" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="RFC" class="control-label"></label>
+                <input asp-for="RFC" class="form-control" type="text" />
+                <span asp-validation-for="RFC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="CARGAR DOCUMENTOS" class="btn btn-default" onclick="aviso2()" />
+            </div>
+        </form>
+</div>
+</div>
+<div>
+
+    <BR />
+    <a onclick="aviso()" asp-action="Index">VOLVER A LISTADO DE PROSPECTOS</a>
+
+    
+
+</div>
+<script>
+    function soloLetras(e){
+       key = e.keyCode || e.which;
+       tecla = String.fromCharCode(key).toLowerCase();
+       letras = " áéíóúabcdefghijklmnñopqrstuvwxyz";
+       especiales = "8-37-39-46";
+
+       tecla_especial = false
+       for(var i in especiales){
+            if(key == especiales[i]){
+                tecla_especial = true;
+                break;
+            }
+        }
+
+        if(letras.indexOf(tecla)==-1 && !tecla_especial){
+            return false;
+        }
+    }
+    function aviso2() {
+
+        alert(" SI EL RFC YA EXISTE O HAY CAMPOS VACIOS ,ENTONCES NO SE CREARA EL PROSPECTO!!!")
+
+
+    }
+
+    function aviso() {
+
+        alert(" LA INFORMACION NO GUARDADA SE PERDERA!!")
+
+
+    }
+</script>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

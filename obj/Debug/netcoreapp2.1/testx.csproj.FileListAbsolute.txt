@@ -1,0 +1,467 @@
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\SQLite.Designer.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.EF6.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.Linq.dll
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\SQLite.Designer.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\SQLite.Designer.xml
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.xml
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.dll.config
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.EF6.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.EF6.xml
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.Linq.pdb
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\bin\Debug\netcoreapp2.1\System.Data.SQLite.Linq.xml
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.g.cshtml.cs
+C:\Users\Gomez\Documents\Visual Studio 2017\Projects\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Gomez\Documents\testx\testx\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Gomez\Documents\testx\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Gomez\Documents\testx - copia\testx\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx - copia\testx\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_aula.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Puente.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_redes.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_hardware.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_software.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Area_detalles.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Usuario_detalles.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_usuario.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_usuario.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Usuarios.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Aula.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Areas.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_aula.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Equipo.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_hd.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_red.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_sw.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_equipo.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Servicio.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Servicio.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Aula.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Equipo.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Usuarios.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Servicio.g.cshtml.cs
+C:\Users\Gomez\Documents\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Cambios.g.cshtml.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Area_detalles.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_hardware.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_redes.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_software.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_usuario.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Usuarios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_hd.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_red.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_sw.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_usuario.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Areas.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Cambios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Usuarios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Puente.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Usuario_detalles.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.genruntimeconfig.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\projecto incidencias\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Area_detalles.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Document.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_hardware.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_redes.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_software.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_usuario.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Prospecto.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Usuarios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Aula.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Document.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_hd.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Equipo_red.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Servicio.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_usuario.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Areas.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Cambios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_equipo.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Usuarios.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Puente.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Usuario_detalles.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.genruntimeconfig.cache
+C:\Users\Imper\OneDrive\Documentos\Nueva carpeta (2)\Nueva carpeta\testx - copia\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Area_detalles.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Borrar_Referencia.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Crear_Referenciado.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Document.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_hardware.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_redes.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Servicio.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_software.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_aula.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Equipo.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_Servicio.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Delete_usuario.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Details.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Aula.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_de_Referencias.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Equipo.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Prospecto.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Usuarios.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Aula.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Document.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Servicio.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_usuario.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Areas.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Cambios.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_equipo.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Usuarios.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Puente.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\SubirFoto.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Usuario_detalles.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.dll
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.pdb
+D:\Concredito\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Concredito\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Concredito\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.deps.json
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.dll
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.pdb
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.Views.dll
+D:\Concredito\bin\Debug\netcoreapp2.1\testx.Views.pdb
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.Views.pdb
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.genruntimeconfig.cache
+D:\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.csprojAssemblyReference.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfoInputs.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.AssemblyInfo.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.RazorAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.deps.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.runtimeconfig.dev.json
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.dll
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.pdb
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.Views.dll
+C:\Users\Imper\OneDrive\Imágenes\Concredito\bin\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.input.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.TagHelpers.output.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.RazorCoreGenerate.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Create_Document.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Detalles_Prospecto.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Edit_Document.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Index_Areas.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\MenuContacto\Showfields.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.RazorTargetAssemblyInfo.cs
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.Views.pdb
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.genruntimeconfig.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CopyComplete
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\testx.csproj.CoreCompileInputs.cache
+C:\Users\Imper\OneDrive\Imágenes\Concredito\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

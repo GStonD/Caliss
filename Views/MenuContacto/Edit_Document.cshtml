@@ -1,0 +1,152 @@
+﻿@model projecto_incidencias.Models.Documento
+
+@{
+    ViewData["Title"] = "Edit_Document";
+
+}
+
+<h4>EVALUACION DEL PROSPECTO</h4>
+
+
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit_Document">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <label asp-for="NOMBRE_DEL_DOCUMENTO" class="control-label">NOMBRE DEL DOCUMENTO</label>
+                <input asp-for="NOMBRE_DEL_DOCUMENTO" class="form-control" type="text"  readonly />
+                <span asp-validation-for="NOMBRE_DEL_DOCUMENTO" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="ESTATUS" class="ESTATUS"></label>
+
+                <select asp-for="ESTATUS" class="container" onchange="if (this.value == 'AUTORIZADO') { document.getElementById('OBSERVACIONES').disabled = true } else { document.getElementById('OBSERVACIONES').disabled = false ; document.getElementById('OBSERVACIONES').focus();}">
+                    <option value="AUTORIZADO">AUTORIZADO</option>
+                    <option value="RECHAZADO">RECHAZADO</option>
+
+
+                </select>
+            </div>
+
+            <BR />
+            <BR />
+
+            <h4> INFORMACION DEL PROSPECTO</h4>
+
+            <div class="form-group">
+                <label asp-for="ID" class="control-label"></label>
+
+                <input asp-for="ID" class="form-control" type="number"   readonly/>
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ID2" class="control-label"></label>
+
+                <input asp-for="ID2" class="form-control" type="number" readonly />
+                <span asp-validation-for="ID2" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="NOMBRE" class="control-label"></label>
+                <input asp-for="NOMBRE" class="form-control" type="text" onkeypress="return soloLetras(event)"  readonly/>
+                <span asp-validation-for="NOMBRE" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PRIMER_APELLIDO" class="control-label">PRIMER APELLIDO</label>
+                <input asp-for="PRIMER_APELLIDO" class="form-control" type="text" onkeypress="return soloLetras(event)"  readonly/>
+                <span asp-validation-for="PRIMER_APELLIDO" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SEGUNDO_APELLIDO" class="control-label">SEGUNDO APELLIDO</label>
+                <input asp-for="SEGUNDO_APELLIDO" class="form-control" type="text" onkeypress="return soloLetras(event)" readonly/>
+                <span asp-validation-for="SEGUNDO_APELLIDO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CALLE" class="control-label"></label>
+                <input asp-for="CALLE" class="form-control" type="text"  readonly/>
+                <span asp-validation-for="CALLE" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NUMERO" class="control-label"></label>
+                <input asp-for="NUMERO" class="form-control" type="number" readonly />
+                <span asp-validation-for="NUMERO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="COLONIA" class="control-label"></label>
+                <input asp-for="COLONIA" class="form-control" type="text" readonly/>
+                <span asp-validation-for="COLONIA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CODIGO_POSTAL" class="control-label"> CODIGO POSTAL</label>
+                <input asp-for="CODIGO_POSTAL" class="form-control" type="text"  readonly/>
+                <span asp-validation-for="CODIGO_POSTAL" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TELEFONO" class="control-label"></label>
+                <input asp-for="TELEFONO" class="form-control" type="number" readonly />
+                <span asp-validation-for="TELEFONO" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="RFC" class="control-label"></label>
+                <input asp-for="RFC" class="form-control" type="text" readonly/>
+                <span asp-validation-for="RFC" class="text-danger"></span>
+            </div>
+
+            <h5>ESTE CAMPO SOLO ESTARAN DISPONIBLE SI SE SELECCIONO EL ESTADO RECHAZADO</h5>
+            <div class="form-group">
+                <label asp-for="OBSERVACIONES" class="control-label"></label>
+                <input asp-for="OBSERVACIONES" class="form-control" type="text" id="OBSERVACIONES" name="OBSERVACIONES" disabled placeholder="Describe la razón del rechazo..." />
+                <span asp-validation-for="OBSERVACIONES" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="guardar" class="btn btn-default" onclick="aviso()" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">VOLVER A LISTADO DE PROSPECTOS</a>
+</div>
+<script>
+    function soloLetras(e) {
+        key = e.keyCode || e.which;
+        tecla = String.fromCharCode(key).toLowerCase();
+        letras = " áéíóúabcdefghijklmnñopqrstuvwxyz";
+        especiales = "8-37-39-46";
+
+        tecla_especial = false
+        for (var i in especiales) {
+            if (key == especiales[i]) {
+                tecla_especial = true;
+                break;
+            }
+        }
+
+        if (letras.indexOf(tecla) == -1 && !tecla_especial) {
+            return false;
+        }
+    }
+    function aviso() {
+
+        alert(" SI SE DEJO UN CAMPO VACIO , NO SE GUARDARAM CAMBIOS!!!")
+
+
+    }
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

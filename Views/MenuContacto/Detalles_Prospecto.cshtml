@@ -1,0 +1,119 @@
+﻿@model projecto_incidencias.Models.Documento
+@{
+    ViewData["Title"] = "Detalles_Prospecto";
+}
+
+<h3>INFORMACION DEL PROSPECTO</h3>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+
+    
+        <dt>
+           NOMBRE
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NOMBRE)
+        </dd>
+
+        <dt>
+           PRIMER APELLIDO
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PRIMER_APELLIDO)
+        </dd>
+        <dt>
+          SEGUNDO APELLIDO
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SEGUNDO_APELLIDO)
+        </dd>
+        <dt>
+         TELEFONO
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TELEFONO)
+        </dd>
+        <dt>
+           COLONIA
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.COLONIA)
+        </dd>
+        <dt>
+           CALLE
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CALLE)
+        </dd>
+        <dt>
+          NUMERO
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NUMERO)
+        </dd>
+        <dt>
+            CODIGO POSTAL
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CODIGO_POSTAL)
+        </dd>
+        <dt>
+           RFC
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RFC)
+        </dd>
+        |
+    </dl>
+</div>
+
+<br />
+
+<h4> DOCUMENTOS DEL PROSPECTO  </h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              NOMBRE DEL DOCUMENTO
+            </th>
+            <th>
+             OBSERVACIONES DE RECHAZO
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.DocumentosSS)
+        {
+            if (item.NOMBRE.Equals(Model.NOMBRE)&& item.PRIMER_APELLIDO.Equals(Model.PRIMER_APELLIDO) && item.SEGUNDO_APELLIDO.Equals(Model.SEGUNDO_APELLIDO) && item.RFC.Equals(Model.RFC))
+            { 
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NOMBRE_DEL_DOCUMENTO)
+                     </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.OBSERVACIONES)
+|
+                    </td>
+                 
+
+                </tr>
+            }
+        }
+
+
+    </tbody>
+</table>
+<div>
+
+
+
+    <a asp-action="Index">VOLVER A LISTADO DE PROSPECTOS</a>
+
+</div>

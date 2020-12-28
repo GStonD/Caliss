@@ -1,0 +1,107 @@
+﻿@model IEnumerable<projecto_incidencias.Models.Documento>
+
+@{
+    ViewData["Title"] = "Index_Areas";
+}
+
+<h4>DETALLES DE PROSPECTO</h4>
+
+
+
+<h4>INFORMACION DE PROSPECTOS</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NOMBRE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PRIMER_APELLIDO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SEGUNDO_APELLIDO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TELEFONO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.COLONIA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CALLE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NUMERO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CODIGO_POSTAL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RFC)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NOMBRE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PRIMER_APELLIDO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SEGUNDO_APELLIDO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TELEFONO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.COLONIA)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CALLE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NUMERO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CODIGO_POSTAL)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RFC)
+                </td>
+                <td>
+                    <h1> Permite mostrar los documentos que tiene este prospecto , tanto como sus obersaciones si estan rechazados</h1>
+                    @Html.ActionLink("VER DOCUMENTOS", "Edit_Aula", new { id = item.ID }) |
+
+
+                </td>
+            </tr>
+
+        }
+
+
+
+
+
+
+
+    </tbody>
+</table>
+
+
+
+<a asp-action="Index">VOLVER A LISTADO DE PROSPECTOS</a>

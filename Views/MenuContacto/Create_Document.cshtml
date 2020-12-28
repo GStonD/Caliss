@@ -1,0 +1,95 @@
+@model projecto_incidencias.Models.Documento
+
+@{
+    ViewData["Title"] = "Create_Document";
+}
+
+<h3>CARGAR DOCUMENTOS PARA EL PROSPECTO</h3>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create_Document">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+
+            <div class="form-group">
+                <label asp-for="NOMBRE_DEL_DOCUMENTO" class="control-label"> NOMBRE DEL DOCUMENTO</label>
+                <input asp-for="NOMBRE_DEL_DOCUMENTO" class="form-control" type="text" placeholder="proporcione el nombre del documento que se va enviar" />
+                <span asp-validation-for="NOMBRE_DEL_DOCUMENTO" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ESTATUS" class="ESTATUS"></label>
+
+                <select asp-for="ESTATUS" class="container" onchange="if (this.value == 'AUTORIZADO' || this.value == 'ENVIADO') { document.getElementById('OBSERVACIONES').disabled = true } else { document.getElementById('OBSERVACIONES').disabled = false ; document.getElementById('OBSERVACIONES').focus();}">
+                    <option value="ENVIADO">ENVIADO</option>
+                    <option value="AUTORIZADO">AUTORIZADO</option>
+                    <option value="RECHAZADO">RECHAZADO</option>
+
+
+                </select>
+            </div>
+
+            <h5>ESTE CAMPO SOLO ESTARAN DISPONIBLE SI SE SELECCIONO EL ESTADO RECHAZADO</h5>
+            <div class="form-group">
+                <label asp-for="OBSERVACIONES" class="control-label"></label>
+                <input asp-for="OBSERVACIONES" class="form-control" type="text" id="OBSERVACIONES" name="OBSERVACIONES" disabled placeholder="Describe la razón del rechazo..." />
+                <span asp-validation-for="OBSERVACIONES" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Enviar" class="btn btn-default" onclick="aviso()" />
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a onclick="aviso2()" asp-action="Index">VOLVER A LISTADO DE PROSPECTOS</a>
+
+</div>
+<script>
+    function soloLetras(e){
+       key = e.keyCode || e.which;
+       tecla = String.fromCharCode(key).toLowerCase();
+       letras = " áéíóúabcdefghijklmnñopqrstuvwxyz";
+       especiales = "8-37-39-46";
+
+       tecla_especial = false
+       for(var i in especiales){
+            if(key == especiales[i]){
+                tecla_especial = true;
+                break;
+            }
+        }
+
+
+
+        if(letras.indexOf(tecla)==-1 && !tecla_especial){
+            return false;
+        }
+    }
+    function aviso() {
+
+        alert("EL DOCUMENTO APARECERA EN EL LISTADO DE LA PANTALLA PRINCIPAL CON ESTATUS : ENVIADO  Y  SI FALTO INFORMACION NO SE DARA DE ALTA!!! ")
+
+
+    }
+
+    function aviso2() {
+
+        alert(" LA INFORMACION NO GUARDADA SE PERDERA!!")
+
+
+    }
+  
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
